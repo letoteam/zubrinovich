@@ -1,0 +1,11 @@
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\bin\Debug\netcoreapp2.0\ConsoleApp59.deps.json
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\bin\Debug\netcoreapp2.0\ConsoleApp59.runtimeconfig.json
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\bin\Debug\netcoreapp2.0\ConsoleApp59.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\bin\Debug\netcoreapp2.0\ConsoleApp59.dll
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\bin\Debug\netcoreapp2.0\ConsoleApp59.pdb
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.AssemblyInfo.cs
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.dll
+C:\Users\sasha\source\repos\ConsoleApp59\ConsoleApp59\obj\Debug\netcoreapp2.0\ConsoleApp59.pdb

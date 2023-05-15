@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gysZKcw60hIC7wsWS4DsGqoYPFFh/rvIY+sXq31AHEK3jyHzchXJ5w0GYQUm7+2y7gjmtbMzvA56pmGQXs346g==",
+  "success": true,
+  "projectFilePath": "/Users/paul/Downloads/ConsoleApp59/ConsoleApp59/ConsoleApp59.csproj",
+  "expectedPackageFiles": [
+    "/Users/paul/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
